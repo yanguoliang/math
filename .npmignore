@@ -1,0 +1,15 @@
+# NPM modules
+node_modules/
+
+# Do not send dev files
+/test
+/src
+/scripts
+/.babelrc
+/.eslintrc
+/.eslintignore
+/.gitattributes
+/.github
+/.nvmrc
+/.travis.yml
+/gulpfile.js

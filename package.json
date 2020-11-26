@@ -1,0 +1,28 @@
+{
+  "name": "lazy-load",
+  "version": "1.0.0",
+  "main": "./dist/bundle.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "mocha ./test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "@rollup/plugin-babel": "^5.2.1",
+    "assert": "^2.0.0",
+    "babel-eslint": "^10.1.0",
+    "http-server": "^0.12.3",
+    "mocha": "^8.2.1",
+    "prettier": "^2.1.2",
+    "rollup": "^2.33.2",
+    "rollup-plugin-eslint": "^7.0.0",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-prettier": "^2.1.0"
+  }
+}
