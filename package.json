@@ -17,6 +17,7 @@
     "@rollup/plugin-babel": "^5.2.1",
     "assert": "^2.0.0",
     "babel-eslint": "^10.1.0",
+    "ecstatic": "^4.1.4",
     "http-server": "^0.12.3",
     "mocha": "^8.2.1",
     "prettier": "^2.1.2",
