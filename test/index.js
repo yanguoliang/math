@@ -4,7 +4,7 @@ var assert = require('assert');
 describe('Math', function () {
   describe('add()', function () {
     it('should return 3 when add(2,1)', function () {
-      assert.strictEqual(add(1, 1), 3);
+      assert.strictEqual(add(1, 1), 2);
     });
     it('should return 1 when add(0,1)', function () {
       assert.strictEqual(add(0, 1), 1);
